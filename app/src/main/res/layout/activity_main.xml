@@ -24,6 +24,8 @@
     android:text="Load the first Fragment"
     android:layout_margin="20dp"
     />
+
+
     <LinearLayout
         android:id="@+id/fragmentContainer"
         android:layout_width="match_parent"
